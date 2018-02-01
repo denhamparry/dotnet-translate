@@ -1,0 +1,5 @@
+/build/
+/template/
+/dotnet-translate/.vscode/
+/dotnet-translate/bin/
+/dotnet-translate/obj/
