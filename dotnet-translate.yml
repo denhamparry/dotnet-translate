@@ -6,4 +6,4 @@ functions:
   dotnet-translate:
     lang: csharp
     handler: ./dotnet-translate
-    image: denhamparry/dotnet-translate:v0.4
+    image: denhamparry/dotnet-translate:v1.0
