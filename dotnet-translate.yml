@@ -1,9 +1,9 @@
 provider:
   name: faas
-  gateway: http://192.168.1.220
+  gateway: http://192.168.1.220:31112
 
 functions:
   dotnet-translate:
     lang: csharp
     handler: ./dotnet-translate
-    image: denhamparry/dotnet-translate
+    image: denhamparry/dotnet-translate:v0.4
