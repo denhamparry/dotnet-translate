@@ -1,6 +1,6 @@
 # DOTNET TRANSLATE
 
-OpenFass proof of concept to translate some text
+OpenFaas proof of concept to translate some text
 
 ### Setup
 
